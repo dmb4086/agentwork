@@ -1,0 +1,26 @@
+# Solana Bridge Dependencies
+# --------------------------
+
+# Solana SDK
+solders>=0.18.0
+solana>=0.30.0
+
+# Database
+asyncpg>=0.29.0
+
+# HTTP Client
+aiohttp>=3.9.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Optional: SPL Token support
+# spl-token>=0.2.0  # Uncomment when needed
+
+# Development Dependencies (uncomment for dev)
+# pytest>=7.4.0
+# pytest-asyncio>=0.21.0
+# pytest-cov>=4.1.0
+# black>=23.0.0
+# mypy>=1.5.0
+# ruff>=0.1.0
